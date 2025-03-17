@@ -12,17 +12,11 @@ Feel free to use our MiniAI Face Recognition iOS SDK.
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 
-## FaceRecognition APK
-<a href="https://play.google.com/store/apps/details?id=com.miniai.facerecognition&hl=en-HK" target="_blank">
-  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
-</a>
-
 <br>
-
 https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK/assets/153516004/85a939ed-a607-478b-b48a-80b8582c37b6
 
-## Request license
-Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
+## Request SDK with trial license
+Feel free to contact us on [WhatsApp](https://wa.me/+19162702374)  to get SDK with a trial License.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -77,7 +71,7 @@ No | Project | Feature
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
 
 ## Contact US
-For any inquiries or questions, please [Contact US](https://www.miniai.live/contact/)
+For any inquiries or questions, please contact us on [WhatsApp](https://wa.me/+19162702374)
 
 <p align="center">
 <a target="_blank" href="https://t.me/Contact_MiniAiLive"><img src="https://img.shields.io/badge/telegram-@MiniAiLive-blue.svg?logo=telegram" alt="www.miniai.live"></a>&emsp;
