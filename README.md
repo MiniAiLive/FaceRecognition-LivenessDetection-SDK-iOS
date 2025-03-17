@@ -13,6 +13,7 @@ Feel free to use our MiniAI Face Recognition iOS SDK.
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
 
 <br>
+
 https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK/assets/153516004/85a939ed-a607-478b-b48a-80b8582c37b6
 
 ## Request SDK with trial license
