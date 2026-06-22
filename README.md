@@ -16,7 +16,7 @@ Feel free to use our MiniAI Face Recognition iOS SDK.
 
 https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK/assets/153516004/85a939ed-a607-478b-b48a-80b8582c37b6
 
-## Latst SDK Download [Here](https://drive.google.com/drive/folders/1u9UoIrnH_rjuj6bpqILyo063hRvgWI-v?usp=drive_link)
+## Latst SDK Download [Here](https://drive.google.com/drive/folders/1qyuq1WX8uxEsorGd5StXebzb-dGZfqJI?usp=drive_link)
 
 ## Request SDK with trial license
 Feel free to contact us on [WhatsApp](https://wa.me/+19162702374) to get SDK with a trial License.
